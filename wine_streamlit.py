@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 import wine_selector as ws
 import os
 
